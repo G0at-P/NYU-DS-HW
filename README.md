@@ -6,10 +6,15 @@ A recap of probability and linear algebra, also a brief introduction of statisti
 Hands-on experience of realizing gradient descent, stochastic gradident descent, regularized gradient descent from scratch.
 
 # HW1 File
-Exact details of HW1 can be found on hw1.pdf
+Exact details of HW1 can be found on hw1.pdf.
 
 # Dataset 
-A csv file used for training and testing 
+A csv file used for training and testing.
+
+# hw1_skeleton_code.py
+A skeleton code with blanks to be filled in.
+
+
 
 # ds1003-hw1.ipynb
-My solutions to hw1, compiled in a jupter platform
+My solutions to hw1, compiled in a jupter platform.

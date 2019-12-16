@@ -3,4 +3,4 @@
 A recap of probability and linear algebra, also a brief introduction of statistical learning theory. 
 
 # Coding Part
-Gained hands-on experience of realizing gradient descent, stochastic gradident descent, regularized gradient descent from scratch
+Hands-on experience of realizing gradient descent, stochastic gradident descent, regularized gradient descent from scratch.

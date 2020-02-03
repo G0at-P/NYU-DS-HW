@@ -1,4 +1,4 @@
-# New York University DS-GA 1003 Homework 1 
+# New York University DS-GA 1003 Homework 
 # Theory Part
 A recap of probability and linear algebra, also a brief introduction of statistical learning theory. 
 
@@ -18,3 +18,7 @@ A skeleton code with blanks to be filled in.
 
 # ds1003-hw1.ipynb
 My solutions to hw1, compiled in a jupter platform.
+
+
+# # ds1003-hw2.ipynb
+My solutions to hw2, compiled in a jupter platform.

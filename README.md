@@ -8,6 +8,9 @@ Hands-on experience of realizing gradient descent, stochastic gradident descent,
 # HW1 File
 Exact details of HW1 can be found on hw1.pdf.
 
+# HW2 File
+Exact details of HW2 can be found on hw2.pdf.
+
 # Dataset 
 A csv file used for training and testing.
 

@@ -20,5 +20,9 @@ A skeleton code with blanks to be filled in.
 My solutions to hw1, compiled in a jupter platform.
 
 
-# # ds1003-hw2.ipynb
+# ds1003-hw2.ipynb
 My solutions to hw2, compiled in a jupter platform.
+
+
+# Lasso_pickle file
+A pickle file containing lasso data.

@@ -1,6 +1,6 @@
 # NYU DS-GA 1003 Machine Learning
 
-Solution to the NYU DS-GA 1003 Machine Learning assignments. For the official website, you can acess it by the following link: [DS1003](https://davidrosenberg.github.io/ml2019/#home). This course covers a wide variety of machine learning techniques and relevant statistical theories. 
+My solution to the NYU DS-GA 1003 Machine Learning assignments. For the official website, you can acess it by the following link: [DS1003](https://davidrosenberg.github.io/ml2019/#home). This course covers a wide variety of machine learning techniques and relevant statistical theories. 
 
 ## Note:
 

@@ -6,7 +6,7 @@ My solution to the NYU DS-GA 1003 Machine Learning assignments. For the official
 
 **This repository is only for self-learning purpose. Don't attempt to download for business purpose. Please respect the orignal work of author.**
 
-HW1. [GD,SGD, and Ridge Regression]()
+HW1. [GD,SGD, and Ridge Regression](https://github.com/Luffy-Yao/NYU-DS-GA-1003/tree/master/Homework_1)
 HW2. [Spanish Translation A/B Test]()
 
 

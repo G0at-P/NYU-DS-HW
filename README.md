@@ -16,5 +16,5 @@ HW2. [Lasso Regression](https://github.com/Luffy-Yao/NYU-DS-GA-1003/tree/master/
 
 
 
-Feel free to contact me via my [LinkedIn](https://www.linkedin.com/in/linxing-yao-594011134/), you can also leave me a message if you had any question regarding my solutions or just want to share with me your thought.
+Feel free to contact me via my [LinkedIn](https://www.linkedin.com/in/linxing-yao-594011134/), you can also leave me a message if you have any question regarding my solutions or just want to share with me your thought.
 

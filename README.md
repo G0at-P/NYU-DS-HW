@@ -6,8 +6,8 @@ My solution to the NYU DS-GA 1003 Machine Learning assignments. For the official
 
 **This repository is only for self-learning purpose. Don't attempt to download for business purpose. Please respect the orignal work of author.**
 
-1. [Conversion Rate](https://github.com/Luffy-Yao/DS_Challenges/blob/master/01.%20Conversion_Rate/Conversion_Rate.ipynb)
-2. [Spanish Translation A/B Test](https://github.com/Luffy-Yao/DS_Challenges/blob/master/02.%20Spanish%20A_B%20Test/Spanish_Translation.ipynb)
+HW1. [GD,SGD, and Ridge Regression]()
+HW2. [Spanish Translation A/B Test]()
 
 
 Other useful resource: [https://github.com/JifuZhao/DS-Take-Home](https://github.com/JifuZhao/DS-Take-Home)
